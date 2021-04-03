@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+    color: white;
+}
+.content-wrapper{
+    width: 80%
+}
+.content-wrapper{
+    width: 100%;
+}
+.text-wrapper{
+    width: auto;
+    position: sticky;
+    margin-bottom: auto;
+}
+.text-wrapper h1{
+    text-align: center ;
+    color: white
+}
+.text-wrapper h5{
+    text-align: center;
+    color: turquoise;
+}
+.table{
+    align-content: center;
+}
+
